@@ -7,7 +7,7 @@
 /**
  * func - this function prints a node's value
  *@n: the value in a function
- * Return: n
+ * Return: void
  */
 
 void func(int n)
